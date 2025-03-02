@@ -1,5 +1,5 @@
 {
-    "uuid": "power-profile-switcher@eliapasquali.github.io",
+    "uuid": "power-profile-switcher-fix@eliapasquali.github.io",
     "name": "Power Profile Switcher",
     "description": "Automatically switch between power profiles based on power supply and percentage.",
     "version": 12,
